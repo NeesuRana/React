@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This my react from scratch.",
+  "main": "App.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeesuRana/React.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "html"
+  ],
+  "author": "Neesu Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeesuRana/React/issues"
+  },
+  "homepage": "https://github.com/NeesuRana/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  }
+}
