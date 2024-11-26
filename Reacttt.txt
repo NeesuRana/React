@@ -1,4 +1,0 @@
-to link react with browser CDN link ko first script link
-
-push garnu vaneko github ma pathaunu ho
-npx parcel index.html  ath create gardincha
